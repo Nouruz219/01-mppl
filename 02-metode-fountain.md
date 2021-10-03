@@ -6,29 +6,29 @@ Metode fountain adalah perbaikan dari metode waterfall, di mana jenis tahapan ma
 
 ## Berikut adalah tahap-tahap pengembangan perangkat lunak menggunakan metode fountain:
 
-* User requirement specification
+* User requirement specification: 
 Mencari tahu apa saja yang dibutuhkan oleh pengguna dalam perangkat lunak yang sedang dikembangkan.
 
-* Software requirement specification
+* Software requirement specification: 
 Penyesuaian perangkat lunak dari sisi pengguna.
 
-* System design
+* System design: 
 Pembuatan desain sistem yang akan dibuat sebelum diimplementasikan.
 
-* Program design
+* Program design: 
 Pembuatan desain yang lebih sempurna dan hampir mendekati hasil akhir dari perangkat lunak.
 
-* Implementation
+* Implementation: 
 Di tahap ini dilakukan implementasi sesuai dengan desain yang sudah dibuat di tahap sebelumnya.
 
-* Program testing: unit
+* Program testing unit: 
 Dalam tahap ini dilakukan uji coba terhadap unit-unit yang dibutuhkan dalam perangkat lunak yang dikembangkan.
 
-* Program testing: system
+* Program testing system: 
 Di tahap ini dilakukan uji coba terhadap sistem dari perangkat lunak seutuhnya sebelum perangkat lunak digunakan.
 
-* Program use
+* Program use: 
 Dalam tahap ini dilakukan pengajaran kepada pengguna untuk menggunakan perangkat lunak yang telah dibuat.
 
-* Software maintenance
+* Software maintenance: 
 Biasanya dalam tahap ini dilakukan perawatan terhadap perangkat lunak yang sudah dibuat, perawatan dapat berupa update sistem atau perbaikan kesalahan atau bugs yang ada.
