@@ -26,3 +26,5 @@ Kolaborasi ini dilakukan oleh setiap tim pengembang untuk mendiskusikan feedback
 
 * Self – organizing, self – managing teams: 
 Pengembang diberikan akses untuk memanajemen sendiri urusan software development. Seorang manajer hanya bertugas sebagai penghubung antara pengembang dengan klien sehingga dapat mengurangi terjadinya miss communication.
+
+[ [Kembali](README.md) ]
